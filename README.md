@@ -29,3 +29,5 @@ Converts your password to specially coded ASCII numerals(about 97 of them) into 
 11. Storage in MySQL with encryption for anti theft(separate table for every user in database)
 12. Spell checks and error handling for people who are drunk and press Y instead of 1 during program execution
 13. Exit
+
+Check out the full working report of the project https://drive.google.com/file/d/1Wc5aw9pSMHsdYyO0iXHbl3bWle_9327R/view?usp=sharing
